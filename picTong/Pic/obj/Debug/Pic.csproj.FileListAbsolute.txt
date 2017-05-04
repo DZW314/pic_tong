@@ -1,8 +1,8 @@
-E:\_DZW\Test\Ex174\Ex175\obj\Debug\Pic.Form1.resources
-E:\_DZW\Test\Ex174\Ex175\obj\Debug\Pic.csproj.GenerateResource.Cache
-E:\_DZW\Test\Ex174\Ex175\bin\Debug\Pic.exe.config
-E:\_DZW\Test\Ex174\Ex175\bin\Debug\Pic.exe
-E:\_DZW\Test\Ex174\Ex175\bin\Debug\Pic.pdb
-E:\_DZW\Test\Ex174\Ex175\obj\Debug\Pic.Properties.Resources.resources
-E:\_DZW\Test\Ex174\Ex175\obj\Debug\Pic.exe
-E:\_DZW\Test\Ex174\Ex175\obj\Debug\Pic.pdb
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\bin\Debug\Pic.exe.config
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\bin\Debug\Pic.exe
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\bin\Debug\Pic.pdb
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.Form1.resources
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.Properties.Resources.resources
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.csproj.GenerateResource.Cache
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.exe
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.pdb
