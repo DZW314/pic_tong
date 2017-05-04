@@ -262,6 +262,11 @@ namespace Pic
             sp1.ReadTimeout = 1000;
 
             sp1.Close();
+            //进度条
+            while (toolStripProgressBar1.Value < toolStripProgressBar1.Maximum)
+            {
+                toolStripProgressBar1.PerformStep(); //进度条增加
+            }
 
         }
         void sp1_DataReceived(object sender, SerialDataReceivedEventArgs e)

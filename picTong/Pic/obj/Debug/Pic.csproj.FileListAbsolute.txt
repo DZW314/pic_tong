@@ -6,3 +6,4 @@ E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.Properties.Resources.resourc
 E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.csproj.GenerateResource.Cache
 E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.exe
 E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.pdb
+E:\_DZW\Test\pic\pic_tong\picTong\Pic\obj\Debug\Pic.csprojResolveAssemblyReference.cache
